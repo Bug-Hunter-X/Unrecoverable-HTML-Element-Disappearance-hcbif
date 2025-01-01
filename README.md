@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug where an element is hidden using JavaScript but never re-inserted into the DOM, resulting in its permanent disappearance from the page.  The `bug.html` file shows the erroneous code, while `bugSolution.html` presents the corrected version.
